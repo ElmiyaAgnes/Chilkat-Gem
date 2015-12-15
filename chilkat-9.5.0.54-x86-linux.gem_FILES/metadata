@@ -1,0 +1,48 @@
+--- !ruby/object:Gem::Specification
+name: chilkat
+version: !ruby/object:Gem::Version
+  version: 9.5.0.54
+platform: x86-linux
+authors:
+- Chilkat Software, Inc.
+autorequire: 
+bindir: bin
+cert_chain: []
+date: 2015-10-30 00:00:00.000000000 Z
+dependencies: []
+description: Chilkat Library for Ruby - FTP, SSH, SFTP, SMTP, POP3, IMAP, SSL, TLS,
+  HTTP, RSA, Encryption, Zip, Compression, XML, ...
+email: support@chilkatsoft.com
+executables: []
+extensions: []
+extra_rdoc_files: []
+files:
+- README.txt
+- demo.rb
+- lib/chilkat.so
+- license.txt
+homepage: http://www.chilkatsoft.com/ruby.asp
+licenses:
+- CHILKAT
+metadata: {}
+post_install_message: 
+rdoc_options: []
+require_paths:
+- lib
+required_ruby_version: !ruby/object:Gem::Requirement
+  requirements:
+  - - ~>
+    - !ruby/object:Gem::Version
+      version: '2.0'
+required_rubygems_version: !ruby/object:Gem::Requirement
+  requirements:
+  - - '>='
+    - !ruby/object:Gem::Version
+      version: '0'
+requirements: []
+rubyforge_project: 
+rubygems_version: 2.4.8
+signing_key: 
+specification_version: 4
+summary: Chilkat Library for Ruby
+test_files: []
