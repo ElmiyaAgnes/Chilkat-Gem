@@ -31,9 +31,9 @@ require_paths:
 - lib
 required_ruby_version: !ruby/object:Gem::Requirement
   requirements:
-  - - ~>
+  - - '>='
     - !ruby/object:Gem::Version
-      version: '2.0'
+      version: '3.1.2'
 required_rubygems_version: !ruby/object:Gem::Requirement
   requirements:
   - - '>='
